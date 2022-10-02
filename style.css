@@ -1,0 +1,36 @@
+body{
+background-color: crimson;
+}
+
+#score{
+    font-size:30px;
+    float:left;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+#Time{
+    font-size:30px;
+    float: right;
+    margin-right:70px;
+    font-weight: bold;
+}
+
+#Drawn{
+    font-weight:500;
+    font-family:'Courier New', Courier, monospace;;
+    color:white;
+    
+}
+
+#p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#conf{
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1{
+    font-family:'Courier New', Courier, monospace;
+}
